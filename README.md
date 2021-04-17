@@ -1,2 +1,2 @@
 # registry
-AyakaUniverse registry
+Ayaka Universe registry
