@@ -6,4 +6,4 @@
 2. Make your changes on your own fork
 3. Create a pull request
 
-## This guide is UNDER CONSTRUCTION, If you have the experience for running large network, please tell us. We need your help!
+## This guide is UNDER CONSTRUCTION. If you have the experience for running large network, please tell us. We need your help!
