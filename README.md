@@ -1,4 +1,4 @@
-*This repo is https://github.com/AyakaUniverse/registry*
+*This repo is https://github.com/AyakaUniverse/registry*       
 *If you are using a different url, please update as soon as possible*
 
 # Guide for creating a Pull Request
